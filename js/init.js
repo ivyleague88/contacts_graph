@@ -220,6 +220,11 @@ function handleFileSelect()
 
 function receivedText() {           
   // console.log("DATA LOADED",fr.result);
+
+  // remove input
+  d3.selectAll(".select-file").remove()
+
+  
   var data = fr.result;
   dat = parseFormat(data);
 
