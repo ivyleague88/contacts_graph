@@ -1,0 +1,40 @@
+#Chat History Properties
+#Thu Aug 14 11:28:46 PDT 2014
+externalID=0
+serverID=0 
+displayID=John M Doe/Gmail/Goog1
+communityID=
+contactID=CN\=John;M;Doe/OU\=Gmail/O\=Goog1
+isAnon=false
+
+#Fri May 15 11:28:46 PDT 2015
+externalID=0
+serverID=0 
+displayID=John M Doe/Gmail/Goog1
+communityID=
+contactID=CN\=John;M;Doe/OU\=Gmail/O\=Goog1
+isAnon=false
+
+#Wed Jan 14 10:28:46 PDT 2015
+externalID=0
+serverID=0 
+displayID=Jane;M;Doe/Gmail/Goog1
+communityID=
+contactID=CN\=John;M;Doe/OU\=Gmail/O\=Goog1
+isAnon=false
+
+#Fri May 15 11:28:46 PDT 2013
+externalID=0
+serverID=0 
+displayID=Mark M Smith/Gmail/Goog1
+communityID=
+contactID=CN\=Mark;M;Smith/OU\=Gmail/O\=Goog1
+isAnon=false
+
+#Wed Jan 14 10:28:46 PDT 2014
+externalID=0
+serverID=0 
+displayID=Richard Hawkins/Gmail/Goog1
+communityID=
+contactID=CN\=Richard;Hawkins/OU\=Gmail/O\=Goog1
+isAnon=false

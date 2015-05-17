@@ -1,0 +1,37 @@
+{
+ "name": "Contacts",
+ "children": [
+    {
+     "name": "Last Month",
+     "type" : "last_month",
+     "children": [
+      {"name" : "John", "date": "May 11, 2015", "size": 10},
+      {"name" : "John", "date": "May 12, 2015", "size": 20},
+      {"name" : "John", "date": "May 13, 2015", "size": 30},
+      {"name" : "John", "date": "May 14, 2015", "size": 50}
+     ]
+    },
+    {
+     "name": "Last 6 Months",
+     "type" : "last_6_months",
+     "children": [ 
+      {"name": "George", "date": "Jan 10, 2015", "size": 60},
+      {"name": "George", "date": "Jan 11, 2015", "size": 90},
+      {"name": "George", "date": "Jan 12, 2015", "size": 20},
+      {"name": "George", "date": "Jan 13, 2015", "size": 10},
+      {"name": "George", "date": "Jan 14, 2015", "size": 120}
+     ]
+    },
+    {
+     "name": "Over A Year Ago",
+     "type" : "last_year",
+     "children": [
+      {"name" : "Hanks", "date": "May 10, 2014", "size": 340},
+      {"name" : "Hanks", "date": "May 14, 2014", "size": 120},
+      {"name" : "Hanks", "date": "May 17, 2014", "size": 20},
+      {"name" : "Hanks", "date": "May 15, 2014", "size": 230},
+      {"name" : "Hanks", "date": "May 19, 2014", "size": 100}
+     ]
+    }
+   ]
+}
